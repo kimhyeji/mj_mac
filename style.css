@@ -330,7 +330,7 @@ a {
   position: absolute;
   height: 1242px;
   width: 100%;
-  top: 207px;
+  top: 225px;
   z-index: -2;
 }
 
@@ -364,7 +364,7 @@ a {
   top: 0;
   font-size: 120px;
   font-weight: 900;
-  margin-bottom: 10px;
+  margin-bottom: 55px;
 }
 
 .mid_box > .mid_txt > .mid_text_box div {

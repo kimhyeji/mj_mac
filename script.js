@@ -17,7 +17,6 @@ var swiper = new Swiper(".mySwiper", {
 var swiper = new Swiper(".swiper_md2", {
   slidesPerView: 4,
   spaceBetween: 0,
-  freeMode: true,
   pagination: {
     el: ".swiper-pagination_md2",
     clickable: true,
