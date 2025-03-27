@@ -61,12 +61,12 @@ var swiper = new Swiper(".swiper_md4", {
 
 //sns
 var swiper = new Swiper(".swiper_sns", {
-  slidesPerView: 3,
-  spaceBetween: 30,
-  centeredSlides: true,
+  slidesPerView: 'auto',
+  loop: true,
+  watchSlidesProgress: true,
+  spaceBetween: 75,
   autoplay: {
     delay: 2500,
-    disableOnInteraction: false,
   },
 });
 // 스와이퍼 합친 것 : 
