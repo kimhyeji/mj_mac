@@ -50,7 +50,8 @@ $('.cursor-big').mouseleave(function() {
 
 //md4
 var swiper = new Swiper(".swiper_md4", {
-  slidesPerView: 2,
+  slidesPerView: 2,  
+  slidesPerGroup: 2,
   loop: false,
   navigation: {
     nextEl: ".swiper-button-next",
